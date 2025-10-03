@@ -293,9 +293,9 @@ index.html:
 </html>
 
   
-```
+``
 ## OUTPUT:
-<<<<<<< HEAD
+
 ![alt text](<Screenshot 2025-10-03 194628.png>)
 ![alt text](<Screenshot 2025-10-03 194647.png>)
 ![alt text](<Screenshot 2025-10-03 194659.png>)
